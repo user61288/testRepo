@@ -1,0 +1,23 @@
+.bio-container {
+	background-color: #1F45FC;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	font-family: Calibri;
+}
+
+#bio-image {
+	float: left;
+	margin-right: 10px;
+}
+
+.text-padding {
+	padding: 5px;
+}
+
+.intro-container img {
+	float: left;
+}
